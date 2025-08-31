@@ -81,7 +81,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-08-30 093254.png>)
+![alt text](image.png)
 
 
 ## RESULT:
